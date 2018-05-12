@@ -1,0 +1,2 @@
+Metody modelowania matematycznego.
+Zamodelowanie i przeprowadzenie symulacji systemu przy ró¿nych pobudzeniach.
